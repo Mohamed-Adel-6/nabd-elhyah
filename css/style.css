@@ -290,7 +290,7 @@ nav .container .links .btn {
 }
 @media (max-width:767px) {
     .services .boxes{
-        grid-template-columns: 90%;
+        grid-template-columns: 100%;
     }
 }
 /* end services */
