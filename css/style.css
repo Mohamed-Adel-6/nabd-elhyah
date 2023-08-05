@@ -146,6 +146,7 @@ nav .container .links .btn {
     width: 450px;
 }
 .header .doctors {
+    color:black;
     margin: 20px auto 0; 
     display: block;
     padding: 7px;
