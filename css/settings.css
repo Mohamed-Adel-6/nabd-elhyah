@@ -1,0 +1,12 @@
+
+/* start ssetings box */
+div .text-area{
+  width: 100%;
+  min-height: 150px;
+  resize: none;
+  border-color: #eee;
+}
+input {
+  border-color: #eee!important;
+}
+/* end settings box */
